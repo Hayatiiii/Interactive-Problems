@@ -12,7 +12,7 @@ Here is the List of the problems :
 
 ## About
 
-This project is created and maintained by [@Nivasnvz](https://github.com/Nivasnvz).
+This project is created and maintained by [@Hayati](https://github.com/Hayatiiii).
 
 ## Installation
 
